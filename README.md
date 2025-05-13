@@ -1,6 +1,6 @@
 # Customer Churn Prediction using ML
 
-This project uses machine learning models to predict customer churn based on telecom data. It includes data preprocessing, exploratory analysis, SMOTE oversampling, hyperparameter tuning, and evaluation.
+This project uses machine learning models to predict customer churn based on telecom data. It includes data preprocessing, exploratory analysis, SMOTE oversampling and evaluation.
 
 ## 📂 Dataset
 - **Source**: Kaggle - Telco Customer Churn dataset
@@ -19,7 +19,6 @@ This project uses machine learning models to predict customer churn based on tel
 4. SMOTE Oversampling
 5. Train-Test Split
 6. Model Training
-7. Hyperparameter Tuning (GridSearchCV)
 8. Evaluation
 9. Final Prediction System
 
